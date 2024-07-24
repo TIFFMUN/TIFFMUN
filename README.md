@@ -17,7 +17,7 @@ Fun fact: I also love to run! 🏃‍♂️
   🛠️ C <br>
   🐍 Python <br>
   📓 Jupyter Notebook <br>
-  🔗 Solidity <br>
+  🔗 Solidity, Ganache <br>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiffmun&show_icons=true&locale=en&layout=compact" alt="tiffmun" /></p>
