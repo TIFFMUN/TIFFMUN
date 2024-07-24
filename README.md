@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiffmun&label=Profile%20views&color=0e75b6&style=flat" alt="tiffmun" /> </p>
 <br>
 
-## 📝 About Me:
+## 👩‍💻 About Me:
 <p align="left">
 I'm an undergraduate at Nanyang Technological University, majoring in Computer Science with a second major in Business. I’m passionate about learning new languages and frameworks and am always seeking opportunities to learn and grow. 
 
@@ -11,7 +11,7 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
 <br>
 
 
-## 🛠️ Skills and Experience:
+## 🛠️ Languages and Tools:
 <p align="left">
   💻 HTML, CSS, JavaScript <br>
   🛠️ C <br>
