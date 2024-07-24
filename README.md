@@ -26,7 +26,7 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
 
 ## 🔗 Contact Me 
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="mailto:eyitstiff@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
