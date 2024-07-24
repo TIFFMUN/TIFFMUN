@@ -8,7 +8,7 @@ I'm an undergraduate at Nanyang Technological University, majoring in Computer S
 Fun fact: I'm also an avid runner! 🏃‍♂️
 </p>
 
-<hr class="section-divider" style="margin-top: 20px; margin-bottom: 20px;">
+<p style="margin-top: 20px; margin-bottom: 20px;"></p>
 
 ## 🛠️ Skills and Experience:
 <p align="left">
