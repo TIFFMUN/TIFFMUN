@@ -27,10 +27,10 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
 ## 🔗 Contact Me 
 <p align="left">
   <a href="https://linkedin.com/in/tiffany-mun" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" style="width: 30px; height:       30px; vertical-align: middle; margin-right: 10px;" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" style="width: 50px; height:       50px; vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="mailto:eyitstiff@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="Gmail" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://instagram.com/tiffanymun" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="vertical-align: middle;" />
