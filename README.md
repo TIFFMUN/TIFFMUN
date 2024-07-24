@@ -25,7 +25,7 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
 <br>
 
 ## 🔗 Contact Me 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://linkedin.com/in/tiffany-mun">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
