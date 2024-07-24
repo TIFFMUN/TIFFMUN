@@ -23,6 +23,30 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiffmun&show_icons=true&locale=en&layout=compact" alt="tiffmun" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiffmun&show_icons=true&locale=en" alt="tiffmun" /></p>
 
+<style>
+  .badge img {
+    border: none; /* Remove any border */
+    margin: 0; /* Remove any margin */
+    padding: 0; /* Remove any padding */
+  }
+</style>
+
+## 🔗 Contact Me 
+<div id="badges" align="left">
+  <p>
+    <a href="mailto:tiffanymun1@gmail.com">
+      <img class="badge" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a> 
+    <a href="https://linkedin.com/in/tiffany-mun">
+      <img class="badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a> 
+    <a href="https://instagram.com/tiffo.ni">
+      <img class="badge" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </p>
+</div>
+
+
 ## 🔗 Contact Me 
 <div id="badges" align="left">
   <p><a href="mailto:tiffanymun1@gmail.com">
