@@ -3,12 +3,10 @@
 
 ## 📝 About Me:
 <p align="left">
-I'm an undergraduate at Nanyang Technological University, majoring in Computer Science with a second major in Business. I'm always seeking opportunities to learn and grow. 
+I'm an undergraduate at Nanyang Technological University, majoring in Computer Science with a second major in Business. I’m passionate about learning new languages and frameworks and am always seeking opportunities to learn and grow. 
 
 Fun fact: I'm also an avid runner! 🏃‍♂️
 </p>
-
-<p style="margin-top: 20px; margin-bottom: 20px;"></p>
 
 ## 🛠️ Skills and Experience:
 <p align="left">
