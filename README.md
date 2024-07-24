@@ -25,34 +25,6 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
 <br>
 
 ## 🔗 Contact Me 
-
-<style>
-  .badge a {
-    margin: 0;
-    padding: 0;
-    display: inline-block; /* Ensure proper alignment */
-  }
-
-  .badge img {
-    margin: 0;
-    padding: 0;
-    vertical-align: middle; /* Align images properly */
-  }
-</style>
-
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/tiffany-mun" class="badge">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/tiffanymun" class="badge">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto:eyitstiff@gmail.com" class="badge">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
-
-
 <div id="badges" align="left">
   <a href="mailto:eyitstiff@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
