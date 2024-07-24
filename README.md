@@ -20,9 +20,7 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
   🔗 Solidity <br>
 </p>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TIFFMUN" alt="GitHub Streak" width="500" height="200" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TIFFMUN" alt="GitHub Streak" /></a> <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiffmun&show_icons=true&locale=en&layout=compact" alt="tiffmun" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiffmun&show_icons=true&locale=en" alt="tiffmun" /></p> -->
 
