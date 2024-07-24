@@ -7,6 +7,7 @@ I'm an undergraduate at Nanyang Technological University, majoring in Computer S
 
 Fun fact: I'm also an avid runner! 🏃‍♂️
 </p>
+<br>
 
 
 ## 🛠️ Skills and Experience:
