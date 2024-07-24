@@ -1,6 +1,11 @@
 <h1 align="center">Hello! I am Tiffany</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiffmun&label=Profile%20views&color=0e75b6&style=flat" alt="tiffmun" /> </p>
 
+<h3 align="left">About Me:</h3>
+<p align="left">
+I'm an undergraduate at Nanyang Technological University, majoring in Computer Science with a second major in Business. I'm always seeking opportunities to learn and grow. Fun fact: I'm also an avid runner! 🏃‍♂️
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tiffany-mun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiffany-mun" height="30" width="40" /></a>
