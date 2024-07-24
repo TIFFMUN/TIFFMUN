@@ -25,13 +25,13 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
 
 ## 🔗 Contact Me 
 <div id="badges" align="left">
-  <p><a href="mailto:eyitstiff@gmail.com">
+  <p><a href="mailto:tiffanymun1@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a> 
   <a href="https://linkedin.com/in/tiffany-mun">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-  <a href="https://instagram.com/tiffanymun">
+  <a href="https://instagram.com/tiffo.ni">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a></p>
 </div>
