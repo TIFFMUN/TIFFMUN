@@ -1,22 +1,4 @@
 <h1 align="center">Hello! I am Tiffany 😃 </h1>
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/tiffany-mun">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/tiffanymun">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto:eyitstiff@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
-<style>
-  .badge {
-    border: none;
-    outline: none;
-    box-shadow: none;
-  }
-</style>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiffmun&label=Profile%20views&color=0e75b6&style=flat" alt="tiffmun" /> </p>
 <br>
 
@@ -43,15 +25,15 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
 <br>
 
 ## 🔗 Contact Me 
-<p align="left">
-  <a href="https://linkedin.com/in/tiffany-mun" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" style="width: 50px; height:       50px; vertical-align: middle; margin-right: 10px;" />
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/tiffany-mun">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="mailto:eyitstiff@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="Gmail" style="width: 50px;           height:50px; vertical-align: middle; margin-right: 10px;" />
+  <a href="https://instagram.com/tiffanymun">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://instagram.com/tiffanymun" target="_blank"> -->
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="vertical-align: middle;" />
+  <a href="mailto:eyitstiff@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-</p>
+</div>
 
