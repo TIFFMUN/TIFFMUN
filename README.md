@@ -8,6 +8,7 @@ I'm an undergraduate at Nanyang Technological University, majoring in Computer S
 Fun fact: I'm also an avid runner! 🏃‍♂️
 </p>
 
+
 ## 🛠️ Skills and Experience:
 <p align="left">
   💻 HTML, CSS, JavaScript <br>
@@ -17,20 +18,20 @@ Fun fact: I'm also an avid runner! 🏃‍♂️
   🔗 Solidity <br>
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiffmun&show_icons=true&locale=en&layout=compact" alt="tiffmun" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiffmun&show_icons=true&locale=en" alt="tiffmun" /></p>
+
 
 ## 🔗 Contact Me 
 <p align="left">
   <a href="https://linkedin.com/in/tiffany-mun" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;" />
   </a>
-  <a href="mailto:tiffanymun1@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" style="vertical-align: middle; margin-right: 8px;" />
+  <a href="mailto:eyitstiff@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" style="vertical-align: middle; margin-right: 10px;" />
   </a>
-  <a href="https://instagram.com/muntiffany" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram.png" alt="Instagram" style="vertical-align: middle;" />
+  <a href="https://instagram.com/tiffanymun" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="vertical-align: middle;" />
   </a>
 </p>
+
