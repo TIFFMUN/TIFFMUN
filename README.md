@@ -1,7 +1,13 @@
 <h1 align="center">Hello! I am Tiffany 😃 </h1>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/tiffany-mun">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/tiffanymun">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:eyitstiff@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiffmun&label=Profile%20views&color=0e75b6&style=flat" alt="tiffmun" /> </p>
