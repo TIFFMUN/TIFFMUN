@@ -10,6 +10,13 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
+<style>
+  .badge {
+    border: none;
+    outline: none;
+    box-shadow: none;
+  }
+</style>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiffmun&label=Profile%20views&color=0e75b6&style=flat" alt="tiffmun" /> </p>
 <br>
 
