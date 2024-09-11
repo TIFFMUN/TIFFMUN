@@ -13,7 +13,7 @@ Fun fact: I also love to run! 🏃‍♂️
 
 ## 🛠️ Languages and Tools:
 <p align="left">
-  💻 HTML, CSS, JavaScript <br>
+  💻 HTML, CSS, JavaScript, ReactJs <br>
   🛠️ C <br>
   🐍 Python <br>
   📓 Jupyter Notebook <br>
