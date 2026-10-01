@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me:
 <p align="left">
-I'm an undergraduate at Nanyang Technological University, majoring in Computer Science with a second major in Business. I’m passionate about learning new languages and frameworks and am always seeking opportunities to learn and grow. 
+I'm an undergraduate at Nanyang Technological University, majoring in Computer Science. I’m passionate about learning new languages and frameworks and am always seeking opportunities to learn and grow. 
 
 Fun fact: I also love to run! 🏃‍♂️
 </p>
@@ -13,11 +13,8 @@ Fun fact: I also love to run! 🏃‍♂️
 
 ## 🛠️ Languages and Tools:
 <p align="left">
-  💻 HTML, CSS, JavaScript, ReactJs <br>
   🛠️ C, Java <br>
   🐍 Python <br>
-  📓 Jupyter Notebook <br>
-  🔗 Solidity, Ganache <br>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiffmun&show_icons=true&locale=en&layout=compact" alt="tiffmun" /></p>
