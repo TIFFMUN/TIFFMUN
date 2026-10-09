@@ -1,36 +1,56 @@
-<h1 align="center">Hello! I am Tiffany 😃 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiffmun&label=Profile%20views&color=0e75b6&style=flat" alt="tiffmun" /> </p>
-<br>
 
-## 👩‍💻 About Me:
-<p align="left">
-I'm an undergraduate at Nanyang Technological University, majoring in Computer Science. I’m passionate about learning new languages and frameworks and am always seeking opportunities to learn and grow. 
+<h1 align="center">Hi, I'm Tiffany Mun 👋</h1>
 
-Fun fact: I also love to run! 🏃‍♂️
-</p>
-<br>
-
-
-## 🛠️ Languages and Tools:
-<p align="left">
-  🛠️ C, Java <br>
-  🐍 Python <br>
+<p align="center">
+  Computer Science undergraduate at Nanyang Technological University
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiffmun&show_icons=true&locale=en&layout=compact" alt="tiffmun" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiffmun&show_icons=true&locale=en" alt="tiffmun" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiffmun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+## 👩‍💻 About Me
 
-## 🔗 Contact Me 
-<div id="badges" align="left">
-<!--   <p><a href="mailto:tiffanymun1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>  -->
+I'm a Computer Science undergraduate at **Nanyang Technological University (NTU)** with experience in backend development, data engineering, and AI applications.
+
+I enjoy building practical software solutions and exploring how different systems work together.
+
+- 💻 Interested in software engineering, backend systems, and AI-powered applications
+- 🛠️ Exploring new technologies through internships and personal projects
+- 🏃 Fun fact: I enjoy running!
+
+## 🛠️ Languages & Technologies
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+**Technologies & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tiffmun&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffmun&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🔗 Connect with Me
+
+<p>
   <a href="https://linkedin.com/in/tiffany-mun">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-<!--   <a href="https://instagram.com/tiffo.ni">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a></p> -->
-</div>
-
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
