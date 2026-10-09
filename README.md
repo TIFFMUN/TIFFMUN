@@ -40,12 +40,6 @@ I enjoy building practical software solutions and exploring how different system
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tiffmun&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffmun&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
 ## 🔗 Connect with Me
 
